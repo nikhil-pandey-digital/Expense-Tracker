@@ -1,0 +1,16 @@
+.filter-year{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: auto;
+
+}
+
+.filter-year select{
+    padding: 1vw 2vw;
+    border-radius: 3px;
+    font: inherit;
+}
+.filter{
+    color: white;
+}
